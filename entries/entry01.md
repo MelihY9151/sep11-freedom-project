@@ -7,4 +7,7 @@ This technology  has a large some of benefits and a large amount of cons in dail
 
 I've used multiple sources to get a basic idea about the implementation of nuclear technology  in our lives and medical uses. The article comes from the world nuclear association. This is one of the most reputable sources since it is not tied to any form of government that would force them to change their information. This site also has links to talk about the negative impact of radiation on the human body and the environment as used improperly can cause severe genetic abnormalities including cancer. Finding this information had ignited an interest toward this technology .Another factor to my interest in nuclear science was learning about nuclear science in chemistry class.
 
+At first I wanted to make my site on aeronautical engineering but there was too great of a following for this technology so I instead decided to make one based on a conventional topic that many people are ill informed about however make arguments based on it on blind ambitions without thinking of all the benefits of this technology. Whit out this site people many always have a negative view of nuclear technology limiting the research fund and improvements to lives. 
+
+
 [Home](../README.md)
